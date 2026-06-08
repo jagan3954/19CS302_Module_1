@@ -27,8 +27,6 @@ ci=(p)*(pow((1+ r/100),n));
 printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci); 
 return 0; 
 }
-Developed by: Manimaran B 
-RegisterNumber: 212223060148
 
 ```
 
