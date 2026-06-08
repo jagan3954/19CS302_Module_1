@@ -24,6 +24,8 @@ int main()
     return 0;
 }
 
+Developed by: JAGANATHAN K
+RegisterNumber:  212223060095
 ```
 
 ## Output:
