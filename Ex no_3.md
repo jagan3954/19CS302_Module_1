@@ -28,6 +28,8 @@ printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci);
 return 0; 
 }
 
+Developed by: JAGANATHAN K
+RegisterNumber:  212223060095
 ```
 
 ## Output:
