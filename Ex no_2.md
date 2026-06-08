@@ -23,8 +23,6 @@ int main()
     }
     return 0;
 }
-Developed by: Manimaran B
-RegisterNumber: 212223060148 
 
 ```
 
