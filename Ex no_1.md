@@ -1,35 +1,34 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
+## DATE:
 ## AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-```
-1.Start.
- 2.Declare a variable value of type float.
-3.Initialize value with 5.8.
-4.Display the value using printf.
-5.End.
-```
+1. Start the program.
+2. Declare a floating-point variable and initialize it with the value 5.8.
+3. Display the value of the variable using an output statement.
+4. End the output operation.
+5. Stop the program.
+  
 
 ## Program:
 ```
-/*
-Program to initialize the value as 5.8 & display the same.
-Developed by: Yuvan kandavel
-RegisterNumber: 212223060315
-
 #include <stdio.h>
 int main()
 {
-    float value = 5.8;
-    printf("The value is: %.1f\n", value);
+    float a;
+    a=5.80000;
+    printf("%.5f",a);
     return 0;
 }
+Developed by : Manimaran B
+Reg.No: 212223060148
 ```
 
 ## Output:
 
-The value is: 5.8
+<img width="1177" height="261" alt="image" src="https://github.com/user-attachments/assets/14a491bc-5451-429c-872b-20ad8db1764b" />
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
